@@ -1,0 +1,4 @@
+repository "VirturSphereProduct@thanh1692003@cloud"
+  path "/"
+    br "/main"
+    co "/main"
